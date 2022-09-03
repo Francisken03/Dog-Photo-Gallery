@@ -17,6 +17,12 @@ body {
     padding: 32px;
 }
 
+.gallery {
+    display: flex;
+    /* flex-direction: row-reverse; */
+    flex-wrap: wrap;
+}
+
 .gallery img {
     width: 100%;
     max-width: 350px;
