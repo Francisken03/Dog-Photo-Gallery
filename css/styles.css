@@ -8,6 +8,15 @@ body {
     margin: 0%;
 }
 
+.header {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(228, 202, 168);
+    color: #000040;
+    border-bottom: 4px solid #000004;
+    padding: 32px;
+}
+
 .gallery img {
     width: 100%;
     max-width: 350px;
